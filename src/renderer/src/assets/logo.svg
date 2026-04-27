@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Eye outline -->
+  <ellipse cx="50" cy="50" rx="38" ry="22" stroke="#c8ff00" stroke-width="5" fill="none"/>
+  <!-- Iris -->
+  <circle cx="50" cy="50" r="14" stroke="#c8ff00" stroke-width="4" fill="none"/>
+  <!-- Pupil -->
+  <circle cx="50" cy="50" r="5" fill="#c8ff00"/>
+  <!-- Aperture blades (camera lens) -->
+  <line x1="50" y1="36" x2="50" y2="44" stroke="#c8ff00" stroke-width="3" stroke-linecap="round"/>
+  <line x1="50" y1="56" x2="50" y2="64" stroke="#c8ff00" stroke-width="3" stroke-linecap="round"/>
+  <line x1="36" y1="50" x2="44" y2="50" stroke="#c8ff00" stroke-width="3" stroke-linecap="round"/>
+  <line x1="56" y1="50" x2="64" y2="50" stroke="#c8ff00" stroke-width="3" stroke-linecap="round"/>
+</svg>
